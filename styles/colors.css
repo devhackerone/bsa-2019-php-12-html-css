@@ -1,0 +1,91 @@
+body {
+    background: #dfdfdf;
+}
+
+a {
+    text-decoration: none;
+    color: #232323;
+}
+
+a:hover {
+    color: #ff8400;
+}
+
+.author-name-title {
+    color: #ff8400;
+}
+
+.rating > .checked {
+    color: gold;
+}
+
+.fa-facebook,
+.fa-instagram,
+.fa-twitter,
+.fa-telegram,
+.fa-home,
+.fa-user,
+.fa-envelope {
+    color: white;
+}
+
+.post-title {
+    color: #ff8400;
+}
+
+a:hover > .post-title {
+    color: #ff2c05;
+}
+
+.post-author {
+    color: #4c4c4c;
+}
+
+.post-statistics-wrp {
+    color: #4c4c4c;
+}
+
+.social p {
+    color: #000063;
+}
+
+.social .fa-facebook,
+.social .fa-instagram,
+.social .fa-twitter,
+.social .fa-telegram {
+    color: #000000;
+}
+
+.social a:hover {
+    color: #ff8400;
+}
+
+.subscribe p {
+    color: #ff8400;
+}
+
+button {
+    background-color: #ff8400;
+    color: white;
+}
+
+.tag {
+    background-color: #ff8400;
+}
+
+.tag span {
+    color: white;
+}
+
+.tags a span:hover {
+    color: black;
+}
+
+footer {
+    background: #121212;
+    color: #bfbfbf;
+}
+
+.footer-contact-tel {
+    color: #ff8400;
+}
